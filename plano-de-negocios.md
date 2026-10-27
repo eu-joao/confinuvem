@@ -2,6 +2,14 @@
 
 ConfiNuvem
 
+**Slogan:** Confiança na nuvem
+
+**Equipe:** João Augusto Silva de Araújo, Miguel Rodrigo da Silva Normando, Pedro Henrique de Sousa Dantas Gomes e Wesley Trajano Cardoso do Carmo.
+
+![Logomarca da ConfiNuvem](imagens/logo-confinuvem.jpg)
+
+O plano de marketing (identidade visual, precificação, distribuição e promoção) está em [plano-de-marketing.md](plano-de-marketing.md).
+
 ## Missão, visão e competência essencial
 
 **Missão:** Prestação de consultoria para empresas na migração de banco de dados físico para armazenamento em nuvem com segurança, confiabilidade e redundância. Consultoria para migração de documentos internos para soluções em nuvem.
@@ -64,7 +72,7 @@ Baseado no Protocolo de Migração e correções:
     3. Execução: transferência de dados para servidores em nuvem com mecanismos de redundância. Implementação de soluções integradas.
     4. Capacitação: treina funcionários em boas práticas de segurança e uso das ferramentas.
     5. Suporte: oferece suporte remoto contínuo. Aplica descontos progressivos em manutenção conforme fidelização.
-- **How much (Quanto):** Orçamento interno da empresa; fluxo de receita único; pró-labore.
+- **How much (Quanto):** Orçamento interno da empresa; fluxo de receita único; pró-labore. Custo fixo mensal estimado de R$ 8.307,24 (administrativas R$ 710,00; marketing R$ 400,00; pró-labore de 4 sócios a R$ 1.621,00 mais INSS de 11%, R$ 7.197,24), capacidade de 336 h produtivas por mês e preço da hora básica de R$ 52,46 (markup de 30%). Detalhes em [plano-de-marketing.md](plano-de-marketing.md).
 
 ## Referências bibliográficas
 
