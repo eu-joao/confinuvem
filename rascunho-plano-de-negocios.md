@@ -1,0 +1,11 @@
+- Prestação de consultoria para empresas na migração de banco de dados físico para armazenamento em nuvem com segurança, confiabilidade e redundância.
+  - Consultoria para migração de documentos internos para soluções em nuvem.
+  - Abordagem com ferramentas de segurança.
+  - Suporte remoto pós migração.
+  - Confiabilidade, segurança e redundância.
+    - Os dados são armazenados em servidores online com mecanismos de segurança e redundância.
+- Abordagem parecida com o que o NeonDB e Supabase fazem: junta um monte de ferramentas em um pacote e vende como solução pronta.
+- Serviço adicional: capacitação de funcionários internos para exercerem boas práticas de segurança e manuseio adequado das ferramentas digitais.
+- Fornecedores: Google e AWS, por exemplo.
+- Diferencial: Processo simplificado é confiável na digitalização e modernização de sistemas internos da empresa.
+- Fidelização: Desconto da manutenção e suporte no fechamento do contrato de forma progressiva para anos.
