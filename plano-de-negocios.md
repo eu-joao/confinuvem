@@ -12,11 +12,11 @@ O plano de marketing (identidade visual, precificação, distribuição e promo�
 
 ## Missão, visão e competência essencial
 
-**Missão:** Prestação de consultoria para empresas na migração de banco de dados físico para armazenamento em nuvem com segurança, confiabilidade e redundância. Consultoria para migração de documentos internos para soluções em nuvem.
+**Missão:** Prestação de serviços especializados para migração e modernização de ambientes de TI para nuvem (Google Cloud, AWS), compreendendo: diagnóstico de ambiente, planejamento de migração, execução da migração de bancos de dados e documentos, capacitação de equipes e gestão contínua do ambiente cloud (Managed Services). Foco em segurança, conformidade LGPD, confiabilidade e parceria de longo prazo.
 
-**Visão:** Ser referência em migração segura e modernização de sistemas internos para nuvem, com abordagem integrada.
+**Visão:** Ser referência em migração segura, modernização e gestão contínua de ambientes cloud para PMEs brasileiras, com portfólio modular, transparência em cada etapa e modelo de parceria recorrente.
 
-**Competência essencial:** Abordagem com ferramentas de segurança, suporte remoto pós-migração, capacitação de funcionários, processo simplificado e confiável na digitalização e modernização de sistemas internos da empresa.
+**Competência essencial:** Portfólio modular de serviços cloud (diagnóstico, planejamento, migração, capacitação, gestão contínua) com abordagem integrada de segurança (backup Acronis, criptografia Vault, monitoramento), suporte remoto com SLA, capacitação com certificação, processo em 5 etapas com dependências explícitas e precificação transparente (hora de consultoria + planos mensais de gestão).
 
 ## Análise do ambiente geral (3 aspectos macro + fonte ABNT)
 
@@ -32,12 +32,17 @@ Apresente aqui uma análise ambiental que aborde pelo menos **três** caracterí
 
 Empresas pequenas que possuem bancos de dados físicos e documentos internos e desejam migrar para armazenamento em nuvem com foco em segurança e redundância.
 
-## Concorrentes em potencial (tabela)
+## Concorrentes em potencial (tabela comparativa por serviço)
 
-| Concorrente | Preço da migração | Capacitação incluída | Suporte pós-migração |
+| Serviço ConfiNuvem | NeonDB | Supabase | Diferencial ConfiNuvem |
 | --- | --- | --- | --- |
-| NeonDB | Não há preço público separado para um serviço de migração. A plataforma tem plano Free a US$ 0/mês; os planos pagos seguem cobrança por uso. [[1]](https://neon.tech/pricing) | A documentação oferece métodos e guias de migração, mas não informa treinamento formal incluído. [[2]](https://neon.tech/migration-assistance) | O suporte varia por plano: comunidade no Free, suporte de cobrança no Launch e suporte Standard, Business ou Production no Scale. [[1]](https://neon.tech/pricing) |
-| Supabase | Não há preço público separado para um serviço de migração. A plataforma oferece Free a US$0/mês, Pro a partir de US$ 25/mês e Team a partir de US$ 599/mês; computação é cobrada por projeto. [[3]](https://supabase.com/pricing) | A empresa disponibiliza guias para migrar de PostgreSQL, Neon, MySQL, MSSQL e outros, mas não indica treinamento formal nos planos comuns. [[4]](https://supabase.com/docs/guides/platform/migrating-to-supabase) | Free inclui suporte da comunidade; Pro inclui suporte por e-mail; Team inclui suporte prioritário e SLAs; Enterprise inclui gerente dedicado, suporte 24/7 e apoio de migração. [[3]](https://supabase.com/pricing) [[5]](https://supabase.com/solutions/enterprise) |
+| **1. Diagnóstico (Avaliação)** | Não oferece serviço separado; apenas documentação de autoavaliação | Não oferece serviço separado; apenas documentação | **Gratuito como lead**; relatório formal com mapa de riscos e estimativa |
+| **2. Planejamento de Migração** | Guias técnicos genéricos; sem plano customizado por cliente | Guias de migração por origem (PostgreSQL, MySQL, etc.); sem TCO/rollback customizado | **Plano customizado** com arquitetura, cronograma Gantt, TCO, rollback, matriz de riscos |
+| **3. Execução da Migração** | Ferramentas de importação (CLI/API); suporte apenas em planos Enterprise | Ferramentas de importação; apoio de migração apenas no plano Enterprise (US$ 599+/mês) | **Execução assistida por consultores**; validação, cutover planejado, checklist, credenciais documentadas |
+| **4. Capacitação (Trilha)** | Documentação técnica; sem treinamento formal incluso | Documentação técnica; sem treinamento formal incluso | **Treinamento com certificado**, material didático (PDF/vídeo), sessões remoto/presencial, avulso ou no pacote |
+| **5. Gestão Contínua (Managed Services)** | Plataforma gerenciada pelo cliente; suporte por plano (comunidade a Enterprise) | Plataforma gerenciada pelo cliente; suporte por plano (comunidade a Enterprise) | **ConfiNuvem Care**: backup gerido (Acronis), Vault gerido, monitoramento/SIEM, suporte N1/N2 com SLA, relatórios compliance LGPD — 3 faixas de preço (R$ 1.171 a R$ 4.429/mês) |
+
+> **Resumo:** NeonDB e Supabase são **plataformas de banco de dados** (DBaaS) onde o cliente gerencia a migração e a operação. A ConfiNuvem é **consultoria + gestão especializada** que pode usar essas plataformas (ou Google/AWS) como infraestrutura, entregando serviço ponta a ponta com responsabilidade técnica e contratual.
 
 ## Fornecedores (tabela)
 
@@ -49,11 +54,11 @@ Empresas pequenas que possuem bancos de dados físicos e documentos internos e d
 
 ## Análise SWOT
 
-**Forças:** Processo simplificado e confiável, abordagem com ferramentas de segurança, pacote completo (migração + capacitação + suporte), fidelização com descontos progressivos.
+**Forças:** Portfólio modular (5 serviços individualizáveis + pacote integrado com desconto), abordagem com ferramentas de segurança (Acronis, Vault, monitoramento), processo em 5 etapas com dependências explícitas e entregáveis formais, capacitação com material didático e certificado, gestão contínua recorrente (ConfiNuvem Care) com 3 faixas de SLA, fidelização com descontos progressivos, precificação transparente (hora consultoria + MRR gestão).
 
 **Fraquezas:** Empresa nova, sem marca consolidada nem histórico de clientes no mercado; equipe enxuta, o que limita a capacidade de atender vários clientes simultaneamente nas fases iniciais; dependência de fornecedores terceirizados de tecnologia (Google, AWS, Veeam, Acronis, Thales, HashiCorp), com preços praticados majoritariamente em dólar e sujeitos a variação cambial; ausência de estrutura própria de suporte 24/7 no início da operação.
 
-**Oportunidades:** Demanda por migração para nuvem, capacitação de equipes.
+**Oportunidades:** Demanda por migração para nuvem, capacitação de equipes, crescimento do mercado de Managed Services (MSP) para PMEs, adequação à LGPD/ANPD como serviço recorrente, upsell natural do diagnóstico gratuito para pacote completo e gestão contínua.
 
 **Ameaças:** Concorrência de plataformas já consolidadas que empacotam migração, segurança e suporte em soluções prontas, como NeonDB e Supabase, além do risco de grandes provedores de nuvem (Google, AWS) passarem a oferecer migração assistida diretamente ao cliente final, dispensando o intermediário; ambiente regulatório mais rigoroso da LGPD, com a ANPD atuando como agência reguladora e ampliando a fiscalização, o que eleva o custo de conformidade da consultoria; ameaças de cibersegurança (ransomware, vazamento de dados) que podem gerar responsabilização contratual da empresa perante os clientes; instabilidade cambial que encarece o custo dos fornecedores internacionais contratados.
 
@@ -61,18 +66,18 @@ Empresas pequenas que possuem bancos de dados físicos e documentos internos e d
 
 Baseado no Protocolo de Migração e correções:
 
-- **What (O quê):** Migração de bancos de dados físicos e documentos internos para nuvem (Google, AWS), com capacitação e suporte. Contrato com modalidade de pagamento definida e fluxo de receita único. Orçamento interno da empresa especificado. Remuneração via pró-labore.
-- **Why (Por quê):** Segurança, confiabilidade, redundância e suporte pós-migração. Processo de assinatura claro para o serviço completo.
+- **What (O quê):** Portfólio de serviços cloud: (1) Diagnóstico ConfiNuvem (avaliação), (2) Plano de Migração ConfiNuvem (planejamento), (3) Migração ConfiNuvem (execução), (4) Trilha ConfiNuvem (capacitação), (5) ConfiNuvem Care (gestão contínua/Managed Services mensal). Contratos por serviço avulso ou Pacote Integrado com desconto. Dois fluxos de receita: projetos de consultoria (hora R$ 52,46) e recorrência mensal (faixas R$ 1.171 a R$ 4.429). Orçamento interno especificado. Remuneração via pró-labore.
+- **Why (Por quê):** Segurança, conformidade LGPD, confiabilidade, redundância e parceria contínua. Modelo modular permite ao cliente contratar apenas o necessário (ex.: só diagnóstico gratuito, ou só gestão contínua), com transparência de escopo, entregáveis e preço em cada etapa.
 - **Where (Onde):** Servidores online com mecanismos de segurança e redundância.
 - **When (Quando):** Conforme cronograma elaborado no planejamento.
 - **Who (Quem):** Equipe de consultoria, fornecedores Google e AWS, funcionários internos (capacitação).
 - **How (Como):**
-    1. Avaliação do ambiente atual, requisitos de segurança e volume de dados.
-    2. Planejamento: escolha de fornecedores, definição de ferramentas de segurança, elaboração de cronograma e orçamento interno.
-    3. Execução: transferência de dados para servidores em nuvem com mecanismos de redundância. Implementação de soluções integradas.
-    4. Capacitação: treina funcionários em boas práticas de segurança e uso das ferramentas.
-    5. Suporte: oferece suporte remoto contínuo. Aplica descontos progressivos em manutenção conforme fidelização.
-- **How much (Quanto):** Orçamento interno da empresa; fluxo de receita único; pró-labore. Custo fixo mensal estimado de R$ 8.307,24 (administrativas R$ 710,00; marketing R$ 400,00; pró-labore de 4 sócios a R$ 1.621,00 mais INSS de 11%, R$ 7.197,24), capacidade de 336 h produtivas por mês e preço da hora básica de R$ 52,46 (markup de 30%). Detalhes em [plano-de-marketing.md](plano-de-marketing.md).
+    1. **Diagnóstico (Avaliação):** Análise de inventário, volumetria, riscos, LGPD, maturidade cloud. Entregável: relatório + mapa de riscos + estimativa. (Gratuito como lead, ou avulso).
+  2. **Planejamento:** Arquitetura alvo, ferramentas, cronograma Gantt, TCO, rollback, matriz de riscos. Entregável: documento técnico + orçamento. (Requer Diagnóstico).
+  3. **Execução (Migração):** Provisionamento, migração dados/bancos, validação, cutover, testes. Entregável: ambiente em produção + relatório + checklist. (Requer Planejamento).
+  4. **Capacitação (Trilha ConfiNuvem):** Segurança, operação, boas práticas. Entregável: treinamento + material didático + certificado. (Opcional, recomendada pós-execução).
+  5. **Gestão Contínua (ConfiNuvem Care):** Backup gerido, Vault gerido, monitoramento/SIEM, suporte N1/N2, manutenção, relatórios compliance. Modelo: mensal recorrente 3 faixas (Básico/Pro/Enterprise). (Independente, pode vir sem migração).
+- **How much (Quanto):** Orçamento interno da empresa; **dois fluxos de receita**: (a) projetos de consultoria por hora (R$ 52,46/h, capacidade 336 h/mês) e (b) receita recorrente mensal MRR (ConfiNuvem Care, faixas R$ 1.171 a R$ 4.429/mês). Custo fixo mensal estimado de R$ 8.307,24 (administrativas R$ 710,00; marketing R$ 400,00; pró-labore de 4 sócios a R$ 1.621,00 mais INSS de 11%, R$ 7.197,24). Custos variáveis de projetos (infra temporária, licenças por cliente) e custos de gestão contínua (licenças Acronis/Vault, monitoramento, plantão) segregados por serviço. Detalhes em [plano-de-marketing.md](plano-de-marketing.md) (seções 3.3 e 3.6).
 
 ## Referências bibliográficas
 
