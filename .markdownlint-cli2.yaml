@@ -1,4 +1,0 @@
-# Os templates do GitHub são formulários, não documentos independentes.
-# Por isso, não precisam começar com um título H1 (regra MD041).
-ignores:
-  - ".github/**"
