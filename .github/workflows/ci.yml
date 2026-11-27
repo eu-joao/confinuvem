@@ -19,7 +19,7 @@ jobs:
     name: Validar título do PR
     permissions:
       pull-requests: read
-    uses: eu-joao/devops/.github/workflows/ci-pr-title.yml@fix/commitlint-without-project-dependencies
+    uses: eu-joao/devops/.github/workflows/ci-pr-title.yml@main
 
   commitlint:
     name: Validar mensagens de commit
@@ -31,4 +31,4 @@ jobs:
     name: Validar Markdown
     permissions:
       contents: read
-    uses: eu-joao/devops/.github/workflows/ci-markdownlint.yml@fix/commitlint-without-project-dependencies
+    uses: eu-joao/devops/.github/workflows/ci-markdownlint.yml@main
