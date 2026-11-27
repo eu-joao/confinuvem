@@ -25,7 +25,7 @@ jobs:
     name: Validar mensagens de commit
     permissions:
       contents: read
-    uses: eu-joao/devops/.github/workflows/ci-commitlint.yml@fix/commitlint-without-project-dependencies
+    uses: eu-joao/devops/.github/workflows/ci-commitlint.yml@main
 
   markdownlint:
     name: Validar Markdown
